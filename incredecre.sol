@@ -4,6 +4,13 @@ contract SimpleCounter {
     //state of the contract
     int counter;
 
-    constructor()
+    constructor() public {
+        counter = 0;
+    }
+
+    //return the value of the counter in the blockchain
+    function getCounter() {
+
+    }
 
 }
