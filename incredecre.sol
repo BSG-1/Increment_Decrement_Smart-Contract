@@ -26,4 +26,6 @@ contract SimpleCounter {
         counter -= 1
     }
 
+    //**use injected web3 in order to initialize your metamask account; this lets you operate the giving and recieving of eth from metamask**//
+
 }
