@@ -1,3 +1,4 @@
+//note -- this was compiled and tested using solidity through remix.etherum.org//
 pragma solidity ^0.4.23;
 
 contract SimpleCounter {
